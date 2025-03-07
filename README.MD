@@ -4,4 +4,4 @@
 
 para ejecutar el sistema,debes poner:
 
-<pre> ```bash npm install react ``` </pre>
+```npm install react ```
